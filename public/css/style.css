@@ -14,3 +14,11 @@ html, body {
     width: 50%;
     height: 50vh;
 }
+
+
+.main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
